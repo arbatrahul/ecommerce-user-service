@@ -1,4 +1,4 @@
-# Ecommerce User Service
+# Ecommerce User Service Management
 
 Microservice for user management, authentication, and authorization in the Ecommerce Platform.
 
